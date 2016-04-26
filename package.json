@@ -1,0 +1,20 @@
+{
+  "name": "node-exec-demo",
+  "version": "0.0.1",
+  "description": "演示如何实现通过web参数在服务端执行命令",
+  "main": "server.js",
+  "dependencies": {
+    "exec": "^0.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git.jkr3.com"
+  },
+  "author": "maxiaojun<somaxj@163.com>",
+  "license": "ISC"
+}
